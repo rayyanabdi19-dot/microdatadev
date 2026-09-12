@@ -1,0 +1,6 @@
+{
+  "name": "microdata.dev - Personal Studio & Admin CMS",
+  "description": "Portofolio digital profesional dan pusat kendali CMS Andriawan Delv untuk manajemen project, studi kasus arsitektur, leads klien, dan artikel teknologi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
